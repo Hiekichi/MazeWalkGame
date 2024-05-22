@@ -6,6 +6,8 @@
 
 ![スクリーンショット](https://cdn-ak.f.st-hatena.com/images/fotolife/H/Hiesuke/20240419/20240419153401.png)
 
+![Animation](https://cdn-ak.f.st-hatena.com/images/fotolife/H/Hiesuke/20240522/20240522232117.gif)
+
 ## 遊び方など
 - オバケを避けつつドットイートしてください。
 - ゲームパッドかキーボードで操作します。
